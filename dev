@@ -1,0 +1,20 @@
+
+[all:vars]
+ansible_connection=ssh
+ansible_ssh_user=root
+ansible_ssh_pass=root
+
+[loadbalancer]
+172.17.0.4
+
+[webserver]
+172.17.0.2
+172.17.0.3
+
+[database]
+172.17.0.5
+
+[control]
+control ansible_connection=local
+
+

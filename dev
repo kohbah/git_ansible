@@ -1,20 +1,17 @@
-
 [all:vars]
 ansible_connection=ssh
 ansible_ssh_user=root
-ansible_ssh_pass=root
+ansible_ssh_pass=4rfv$RFV
 
 [loadbalancer]
-172.17.0.4
+10.0.1.83
 
 [webserver]
-172.17.0.2
-172.17.0.3
+10.0.1.198
+10.0.1.224
 
 [database]
-172.17.0.5
+10.0.1.125
 
 [control]
 control ansible_connection=local
-
-

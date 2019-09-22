@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
+    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="ipv4 update mysql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/mysql/tasks/main.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1R8uYtT6JYPwa1OkTjcsOapExN4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569064478396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ipv4 update mysql">
+      <created>1569072989830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569072989831</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28" />
     <MESSAGE value="29" />
-    <option name="LAST_COMMIT_MESSAGE" value="29" />
+    <MESSAGE value="ipv4 update mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="ipv4 update mysql" />
   </component>
 </project>

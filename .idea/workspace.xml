@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="" />
+    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/defaults/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/defaults/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/templates/nginx.conf.j2" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/templates/nginx.conf.j2" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569295648347</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mysql update 2">
+      <created>1569295774977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569295774977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +137,7 @@
     <MESSAGE value="29" />
     <MESSAGE value="ipv4 update mysql" />
     <MESSAGE value="mysql update" />
-    <option name="LAST_COMMIT_MESSAGE" value="mysql update" />
+    <MESSAGE value="mysql update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mysql update 2" />
   </component>
 </project>

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/database.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569297068458</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mysql update 4">
+      <created>1569297607328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569297607328</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +150,7 @@
     <MESSAGE value="mysql update" />
     <MESSAGE value="mysql update 2" />
     <MESSAGE value="mysql update 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="mysql update 3" />
+    <MESSAGE value="mysql update 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="mysql update 4" />
   </component>
 </project>

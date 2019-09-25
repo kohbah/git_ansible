@@ -15,7 +15,7 @@
 - name: ensure mysql started
   service: name=mysql state=started enabled=yes
 
-- name: create demo database
+- name: create database
   mysql_db: name={{ db_name }} state=present
 
 - name: create user

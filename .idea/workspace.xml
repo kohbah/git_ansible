@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group_vars/all.yml" beforeDir="false" afterPath="$PROJECT_DIR$/group_vars/vars.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_vars/all/vars.yml" beforeDir="false" afterPath="$PROJECT_DIR$/group_vars/all" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbooks/stack_restart.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbooks/stack_restart.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbooks/stack_status.yml" beforeDir="false" afterPath="$PROJECT_DIR$/playbooks/stack_status.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/demo/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/handlers/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/demo_app/handlers/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/mysql/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/handlers/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/handlers/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +37,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_ansible" />
       <recent name="D:\git_ansible\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_ansible\group_vars\all" />
       <recent name="D:\git_ansible\roles\demo_app\templates" />
       <recent name="D:\git_ansible\roles\demo_app\files" />
       <recent name="D:\git_ansible\roles\nginx\templates" />
@@ -166,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569301003545</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="mysql update 4">
+      <created>1569301400083</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569301400083</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

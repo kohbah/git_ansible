@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="" />
+    <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569385624301</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="mysql update 4">
+      <created>1569386044253</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569386044253</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

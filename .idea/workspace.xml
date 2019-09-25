@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d308b00a-a89c-4c05-a95f-be1f5ec2a3dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_vars/all" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbooks/hostname.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbooks/stack_restart.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playbooks/stack_status.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/meta/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/meta/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/apache2/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/control/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/demo/app/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/demo/app/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/files/demo/demo.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/templates/demo.wsgi.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/demo_app/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/defaults/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/handlers/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/mysql/vars/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/defaults/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/defaults/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/handlers/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/handlers/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/meta/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/tasks/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/templates/nginx.conf.j2" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/templates/nginx.conf.j2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/nginx/vars/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/vars/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/nginx.conf.j2" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +73,7 @@
       <recent name="D:\git_ansible\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_ansible" />
       <recent name="D:\git_ansible\group_vars\all" />
       <recent name="D:\git_ansible\roles\demo_app\templates" />
       <recent name="D:\git_ansible\roles\demo_app\files" />
@@ -188,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569386044253</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="mysql update 4">
+      <created>1569386245678</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569386245678</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
